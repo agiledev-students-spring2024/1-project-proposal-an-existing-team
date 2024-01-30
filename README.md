@@ -12,7 +12,7 @@ Agile practitioners, HR managers, project leaders, professors, consultants, and 
 
 ### How?
 
-The system would provide users with an interface for taking psychometric tests, manually entering existing results, and accessing  n-depth analysis of the results and resources on team building. 
+The system would provide users with an interface for taking psychometric tests, manually entering existing results, and accessing in-depth analysis of the results and resources on team building. 
 
 ### Scope
 
