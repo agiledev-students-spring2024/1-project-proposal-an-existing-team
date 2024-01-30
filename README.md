@@ -16,4 +16,4 @@ The system would provide users with an interface for taking psychometric tests, 
 
 ### Scope
 
-This project would probably be a balanced mix of difficulty and achievability. The team would develop a user friendly interface, storing and organizing data across teams, while preserving the validity and reliability of our findings via e.g., not a Buzzfeed quiz.  
+This project would probably be a balanced mix of difficulty and achievability. The team would develop a user friendly interface, storing and organizing data across teams, while preserving the validity and reliability of our findings e.g., not a Buzzfeed quiz.  
